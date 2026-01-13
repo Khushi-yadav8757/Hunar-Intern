@@ -1,3 +1,5 @@
+![IPL Power BI Dashboard](https://github.com/Khushi-yadav8757/IPL-Score-Data-Analysis/blob/main/Screenshot%202026-01-13%20141826.png)
+
 # 🏏 IPL Analysis Dashboard (2008–2025)
 
 ## 📌 Hunar Intern – Task 1 (Power BI Project)
@@ -6,6 +8,7 @@ This project is an **interactive Power BI dashboard** developed as part of **Tas
 It provides a detailed analysis of the **Indian Premier League (IPL)** from **2008 to 2019** along with insights from the **2025 season**.
 
 ---
+
 ## 📊 Project Objective
 
 The objective of this project is to analyze IPL historical and recent data and present it in a visually interactive format using **Power BI**, enabling users to explore:
@@ -79,12 +82,6 @@ The objective of this project is to analyze IPL historical and recent data and p
 
 ---
 
-## 📷 Dashboard Preview
-
-![IPL Power BI Dashboard](https://github.com/Khushi-yadav8757/IPL-Score-Data-Analysis/blob/main/Screenshot%202026-01-13%20141826.png)
-
----
-
 ## 🎯 Key Learnings
 
 - Hands-on experience with **Power BI**
@@ -114,6 +111,9 @@ https://www.linkedin.com/in/khushi-yadav8757/
 
 📂 **GitHub Repository:**  
 https://github.com/Khushi-yadav8757/IPL-Score-Data-Analysis-Project
+
+📧 **Email:**  
+khushiyad152@gmail.com
 
 ---
 
